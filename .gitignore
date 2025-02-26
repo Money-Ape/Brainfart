@@ -1,0 +1,12 @@
+
+# Test Unity Project [Status : abondened]
+Isometric_Game/
+
+# Untracked Files
+Brainfart/Library/
+Brainfart/Temp/
+Brainfart/Logs/
+Brainfart/UserSettings/
+Brainfart/.vscode/
+Brainfart/Packages/
+
